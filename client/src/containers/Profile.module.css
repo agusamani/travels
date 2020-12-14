@@ -1,0 +1,19 @@
+.container {
+  background: rgb(20,73,117);
+  background: linear-gradient(0deg, rgba(20,73,117,1) 0%, rgba(31,26,149,1) 100%);
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.subContainer {
+  position: relative;
+  top:250px;
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
